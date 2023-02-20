@@ -53,3 +53,15 @@ As web developers we want to focus on our application experience and Â´exteriorÂ
 Over a million applications have been created using **Firebase** - It provides an extensive technical documentation that makes it possible for total beginners to get a quick jumpstart.
 
 Although Firebase has many strengths it does come with some issues. As it relies on a **flat data hierarchy** it is not made for processing **complex queries** like for example reversing order of certain items. Since it has a very **dynamic** data structure it cannot guarantee **data integrity** and eventually something may not be handled properly and the data will become messy.
+
+
+# References
+https://www.youtube.com/watch?v=vAoB4VbhRzM&ab_channel=Fireship  
+https://www.youtube.com/watch?v=q5J5ho7YUhA&t=241s&ab_channel=Fireship  
+https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0  
+https://firebase.google.com/docs/build  
+https://en.wikipedia.org/wiki/Firebase  
+https://www.c-sharpcorner.com/article/introduction-to-google-firebase/  
+
+## Credits
+Olga Sznajdrowicz / aerochipie@github
